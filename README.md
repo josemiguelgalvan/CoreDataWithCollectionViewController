@@ -1,0 +1,2 @@
+# CoreDataWithCollectionViewController
+CoreData with UICollectionViewController integration
